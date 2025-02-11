@@ -1,3 +1,4 @@
 Hello world
 My name Nazar
 Today is 11.02.2025
+I'm using redactor "nano"
